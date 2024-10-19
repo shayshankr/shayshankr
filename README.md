@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @shayshankr
+- 👋 Hi, I’m Shayshank Rathore @shayshankr
 - 👀 I’m interested in learning and expolring new area of technology.
-- 🌱 I’m currently learning hiking and planing my adventures. 
+- 🌱 I’m currently learning python and other languages.
 - 💞️ I’m looking to collaborate on GitHub 
-- 📫 How to reach me ...
+- 📫 How to reach me send me a Hi  message. 
 - 😄 Pronouns: (He/Him)
-- ⚡ Fun fact: I didn't bit my brothers hand but my tooth did :P 
+- ⚡ Fun fact: I Love traveling  
 
 <!---
 shayshankr/shayshankr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
