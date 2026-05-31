@@ -71,7 +71,8 @@ I think the best engineers are also great communicators - I've spent years sitti
 | **Mobile App Development** | Flutter · Dart · Kotlin · Android (native + Flutter) · iOS (Flutter) · Codemagic CI · Play Store / App Store submission |
 | **Cloud & DevOps** | Microsoft Azure · AWS S3 · Snowflake Cloud · Render · Hugging Face Spaces · Docker · Cloud Migration · TFS · Git / GitHub |
 | **Databases** | SQL Server 2012–2019 · PostgreSQL · T-SQL · Stored Procedures · Query Optimisation |
-| **Tools & Delivery** | Jira · Confluence · Swagger/OpenAPI · Salesforce · Visual Studio · Client coordination · Stakeholder communication · Agile delivery |
+| **Tools & Delivery** | Jira · Confluence · Swagger/OpenAPI · Salesforce · Visual Studio · Microsoft Fabric · Client coordination · Stakeholder communication · Agile delivery |
+| **Languages Spoken** | Hindi · English · Tamil · Marathi |
 
 ---
 
@@ -113,6 +114,8 @@ Sentiment classifier using logistic regression and **BERT embeddings** trained o
 - Architected Azure Data Factory pipelines improving processing efficiency by **20%**.
 - Led zero-downtime migration to Snowflake & SQL Server 2017 - 🏆 **High Five Award 2023**.
 - Automated SSRS reports + ETL jobs, reducing manual effort by **60%** with **100% SLA compliance**.
+- **2021–2022:** V-resource on a **UK-based NLP client** — Looker, Snowflake, IICS, Power BI, ADF stack rebuild.
+- **2022–2024:** OPS Lead for Indian customer + **USA/Canada car reinsurance** — introduced **Generative AI** tooling and **Microsoft Fabric** workflows.
 - Single point of contact between 6 developers and 3 client business teams across IST/EST.
 - Authored BRDs, test cases, and UAT scripts; mentored junior BI developers.
 
@@ -172,6 +175,12 @@ Sentiment classifier using logistic regression and **BERT embeddings** trained o
   </a>
   <a href="https://www.youtube.com/@2hayshankRathore">
     <img alt="YouTube" src="https://img.shields.io/badge/YouTube-%402hayshankRathore-FF0000?style=for-the-badge&logo=youtube&logoColor=white">
+  </a>
+  <a href="https://g.dev/shayshankr">
+    <img alt="Google Developer" src="https://img.shields.io/badge/Google%20Developer-shayshankr-4285F4?style=for-the-badge&logo=google&logoColor=white">
+  </a>
+  <a href="https://learn.microsoft.com/en-us/users/shayshankrathore-9434/transcript/dlq8a1xo44lny67">
+    <img alt="Microsoft Learn" src="https://img.shields.io/badge/Microsoft%20Learn-shayshankrathore-00A4EF?style=for-the-badge&logo=microsoft&logoColor=white">
   </a>
 </p>
 
