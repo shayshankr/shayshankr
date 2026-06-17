@@ -1,14 +1,15 @@
 <!--
   This file goes at: github.com/shayshankr/shayshankr/blob/main/README.md
-  It's the "special profile repo" — the README appears at the top of your GitHub profile.
+  It's the "special profile repo" - the README appears at the top of your GitHub profile.
   Replace the existing one with this version.
 -->
 
 <h1 align="center"> Shayshank Rathore </h1>
 
 <p align="center">
-  <b>BI Developer · Data Engineer · MSc Artificial Intelligence (NCI Dublin, 2025)</b><br/>
-  <i>Building production AI tools that real people actually use.</i>
+  <b>AI Product Builder · Forward-Deployed Engineer · Shipper</b><br/>
+  <i>I ship AI products fast - 35+ repos, 6+ Play Store apps, 4,300+ users in 14 months.</i><br/>
+  <b>MSc Artificial Intelligence · First Class Honours (1:1) · NCI Dublin, 2025</b>
 </p>
 
 <p align="center">
@@ -17,6 +18,9 @@
   </a>
   <a href="mailto:shayshankrathore05@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-shayshankrathore05%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://shayshankr.github.io/">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-shayshankr.github.io-0F766E?style=flat&logo=github&logoColor=white">
   </a>
   <a href="https://huggingface.co/SR05">
     <img alt="HuggingFace SR05" src="https://img.shields.io/badge/HF-SR05-FFD21E?style=flat&logo=huggingface&logoColor=black">
@@ -36,28 +40,42 @@
 </p>
 
 <p align="center">
-  🟢 <b>Open to opportunities - globally available. Open to India /Ireland / EU / Remote.</b>
+  🟢 <b>Open to opportunities - globally available. Open to India / Ireland / EU / Remote.</b>
 </p>
 
 ---
 
 ## 👋 About me
 
-BI & Data Engineering professional with **5+ years at Datafortune** designing enterprise-grade ETL pipelines, data warehouses, and Power BI reporting platforms for international clients. Recently completed an **MSc in Artificial Intelligence** at the **National College of Ireland, Dublin  graduated with First Class Honours (1:1)**  now applying ML, NLP, RL, and RAG to real-world problems.
+I'm an **AI-native product builder** who ships fast. In the last 14 months I've shipped:
 
-A few things I'm proud of:
+- 🚀 **35+ public GitHub repos** - web, Android, iOS, AI agents, data pipelines
+- 📱 **6+ Android apps to Google Play Store** - Flutter + Kotlin native
+- 🌍 **A live AI visa tracker used by 4,300+ people** - zero advertising spend
+- 🌡️ **A live HVAC psychrometric calculator** - used by engineers and students
+- 🧠 **MSc thesis on Hybrid Reinforcement Learning** for personalised diabetes care
 
-- 🎓 **First Class Honours (1:1)** in MSc Artificial Intelligence - National College of Ireland, Dublin (2025).
-- 🚀 Shipped an **Irish Visa Decision Tracker** used by **4,300+ people** with **zero advertising spend** (Streamlit + Hugging Face).
-- 🌍 Expanded to a **5-embassy Ireland Visa Checker product suite** (New Delhi, Beijing, Abuja, Abu Dhabi, Ankara) — **web + Android (Flutter & Kotlin) + iOS**.
-- 🌡️ Co-built and deployed a **Psychrometric Chart Calculator** for HVAC engineers on Render - live web app + **Kotlin Android app**.
-- 🏆 **Datafortune High Five Award (2023)** for a zero-downtime cloud migration to Snowflake.
-- 📈 Automated ETL & SSRS workflows that reduced manual effort by **60%** while holding **100% SLA compliance**.
-- 🧠 MSc thesis on **Hybrid Reinforcement Learning for Personalised Diabetes Care** (PPO + meta-learning over UCI AIM'94 data).
-- 🌍 Founded a **1,000+ member** WhatsApp community helping Indian students settle in Ireland.
-- ✍️ Active LinkedIn writer (**3,820 followers**) - drawing engineering and ops lessons from real life.
+All while completing an **MSc in Artificial Intelligence at National College of Ireland, Dublin with First Class Honours (1:1)**.
 
-I think the best engineers are also great communicators - I've spent years sitting between developers and clients, translating intent into shipped software.
+My stack is **AI-native**: I treat Claude, Cursor, and GitHub Copilot as pair programmers. My value isn't typing every line by hand - it's knowing what to build, designing it clearly, and shipping working products fast. This is how I produce more in a week than most teams ship in a quarter.
+
+Before the MSc, **5+ years at Datafortune Software Solutions** as BI Team Lead - coordinated US/EU clients, led delivery, introduced Microsoft Fabric and Generative AI tooling. Strong communicator: 3,820 LinkedIn followers, founded a 1,000+ member community in Ireland, published technical writing.
+
+**I'm looking for:** Forward-Deployed Engineer · AI Solutions Engineer · AI Product Manager · Developer Advocate · AI Consulting roles - places where shipping speed, product judgement, and strong communication beat raw algorithmic depth.
+
+---
+
+## 🛠️ How I Work - AI-Native Development
+
+| Tool | What I use it for |
+|------|-------------------|
+| **Claude / Claude Code** | Architecture decisions, complex refactors, writing tests, debugging |
+| **Cursor** | Day-to-day coding, multi-file edits, fast prototyping |
+| **GitHub Copilot** | Boilerplate, inline suggestions, completing patterns |
+| **v0 / Bolt / Lovable** | UI scaffolding for landing pages and Streamlit demos |
+| **My brain** | Product decisions, system design, prompt engineering, communication |
+
+I ship in 3-day cycles instead of 3-week sprints. This isn't a workaround - it's the new development model that AI companies (Cursor, Anthropic, OpenAI, LangChain) are actively hiring for.
 
 ---
 
@@ -65,64 +83,61 @@ I think the best engineers are also great communicators - I've spent years sitti
 
 | Area | Tools & Tech |
 |------|--------------|
-| **Data Engineering & ETL** | Azure Data Factory (ADF) · SSIS · IICS · Snowflake · Amazon S3 · ETL/ELT · Data Warehousing · Data Modelling · Star/Snowflake schemas |
-| **Business Intelligence** | Power BI · SSRS · SSAS · DAX · KPI Dashboards · Real-time Analytics · BRD authoring · UAT |
-| **AI / ML / Python** | Python · Pandas · NumPy · scikit-learn · XGBoost · SHAP · TensorFlow · Reinforcement Learning (PPO, Gymnasium) · NLP · BERT · Sentiment Analysis · RAG · LLM Prompt Engineering · LangChain · Streamlit · Flask · FastAPI · Selenium · BeautifulSoup |
-| **Mobile App Development** | Flutter · Dart · Kotlin · Android (native + Flutter) · iOS (Flutter) · Codemagic CI · Play Store / App Store submission |
-| **Cloud & DevOps** | Microsoft Azure · AWS S3 · Snowflake Cloud · Render · Hugging Face Spaces · Docker · Cloud Migration · TFS · Git / GitHub |
-| **Databases** | SQL Server 2012–2019 · PostgreSQL · T-SQL · Stored Procedures · Query Optimisation |
-| **Tools & Delivery** | Jira · Confluence · Swagger/OpenAPI · Salesforce · Visual Studio · Microsoft Fabric · Client coordination · Stakeholder communication · Agile delivery |
-| **Languages Spoken** | Hindi · English · Tamil · Marathi |
+| **AI-Native Development** | Claude · Cursor · GitHub Copilot · Claude Code · prompt engineering · AI workflow design · AI-assisted debugging |
+| **GenAI / Agentic AI** | Retrieval-Augmented Generation (RAG) · LLM Prompt Engineering · LangChain · AI Agents (browser-use, multi-agent systems) · BERT vector embeddings · LLM evaluation metrics · Responsible AI · Exploring LangGraph + CrewAI |
+| **AI / ML / Python** | Python · Pandas · NumPy · scikit-learn · XGBoost · SHAP · TensorFlow · BERT · NLP · Reinforcement Learning (PPO, Gymnasium, Stable-Baselines3) · Meta-learning |
+| **Mobile Development** | Flutter · Dart · Kotlin · Android (native + Flutter) · iOS (Flutter) · Codemagic CI · Play Store / App Store submission |
+| **Shipping & Deployment** | Hugging Face Spaces · Streamlit Cloud · Render · Google Play Console · Docker · FastAPI · Flask · Streamlit · Git / GitHub |
+| **Web Backends** | FastAPI · Flask · Streamlit · Selenium · BeautifulSoup · REST APIs · Swagger / OpenAPI |
+| **Data & Cloud (concept-level)** | Azure Data Factory · Snowflake · SQL Server · PostgreSQL · Power BI · Microsoft Fabric · Microsoft Azure · AWS S3 - concept-level fluency, AI-assisted execution |
+| **Communication & Delivery** | 5+ years coordinating dev teams + US/EU clients · BRD/UAT · agile · technical writing · public demos · published articles |
+| **Languages** | Hindi · English · Tamil · Marathi |
 
 ---
 
 ## 🚀 Featured Projects
 
 #### 🇮🇪 [Irish Visa Decision Tracker](https://huggingface.co/spaces/SR05/Delhi_Irish_visa_decisions) - Live · 4,300+ users
-AI-powered status checker for Irish visa applications. Scrapes official decision notices with Selenium + BeautifulSoup, extracts processing dates with NLP, and serves real-time updates through a Streamlit interface. **Built for personal use, scaled by word of mouth - zero advertising spend.**
-> `Python` · `Streamlit` · `Flask` · `Selenium` · `BeautifulSoup` · `NLP` · `Hugging Face Spaces`
+AI-powered status checker for Irish visa applications. Scrapes official decision notices with Selenium + BeautifulSoup, extracts processing dates with NLP, served through Streamlit. **Built solo, scaled by word of mouth - zero advertising spend.**
+> `Python` · `Streamlit` · `Selenium` · `BeautifulSoup` · `NLP` · `Hugging Face Spaces`
 
 #### 🌐 [Global Ireland Visa Checker Suite](https://github.com/shayshankr?tab=repositories) - 5 embassies · Web + Mobile
-Expanded the visa tracker into a **product suite** covering New Delhi, Beijing, Abuja, Abu Dhabi, and Ankara — each with its own Streamlit web app, plus a **unified global checker**. Includes a Kotlin-native Android estimator (`irish-visa-expected-date`) that predicts decision dates from VFS submission data, Flutter mobile apps for Android + iOS, FastAPI backend on Docker, and matching privacy-policy pages for Play / App Store submission.
-> `Python` · `Streamlit` · `Flutter` · `Dart` · `Kotlin` · `FastAPI` · `Docker` · `Codemagic CI`
+Expanded the tracker into a full product suite covering **New Delhi, Beijing, Abuja, Abu Dhabi, and Ankara** - each with its own Streamlit web app, Flutter Android/iOS apps, a Kotlin-native decision-date estimator, and FastAPI/Docker backend. **20+ new GitHub repos shipped in May 2026 using AI-assisted development.**
+> `Streamlit` · `Flutter` · `Dart` · `Kotlin` · `FastAPI` · `Docker` · `Codemagic CI` · `Google Play Store`
 
 #### 🌡️ [Psychrometric Chart Calculator](https://psychrometric-chart-1hzt.onrender.com/) - Live HVAC Tool (Web + Android)
-Web app computing 9 moist-air properties and analysing 8 psychrometric processes on an ASHRAE-style chart. Built for HVAC engineers and students. Now also available as a **native Kotlin Android app** ([psychrochart-android](https://github.com/shayshankr/psychrochart-android)). *Co-built with [@atulkrohatgi](https://github.com/atulkrohatgi).*
-> `Python` · `Streamlit` · `psychrolib` · `matplotlib` · `Render` · `Kotlin` · `Android`
+Web app computing 9 moist-air properties on an ASHRAE-style chart. Now also a **native Kotlin Android app** ([psychrochart-android](https://github.com/shayshankr/psychrochart-android)). *Co-built with [@atulkrohatgi](https://github.com/atulkrohatgi).*
+> `Python` · `Streamlit` · `psychrolib` · `Render` · `Kotlin` · `Android`
 
 #### 🧠 [Hybrid RL for Personalised Diabetes Care](https://github.com/shayshankr/hybrid-rl-diabetes) - MSc Thesis
-PPO agents trained on a custom Gymnasium environment over the UCI AIM'94 dataset (70 patients), with **reward decomposition** for glycaemic control / hypoglycaemia safety / insulin cost, plus **meta-learning** for fast patient-level adaptation.
+PPO agents over a custom Gymnasium environment with **reward decomposition that bakes safety guardrails (hypoglycaemia floor) directly into the reward signal**, plus meta-learning for fast patient adaptation. Distinguished thesis - contributed to the 1:1.
 > `Python` · `PPO` · `Gymnasium` · `Stable-Baselines3` · `Meta-Learning`
 
 #### 🚗 [Automotive After-sales Risk Prediction](https://github.com/shayshankr/automotive_project) - Privacy-first ML
-Customer churn classifier (High / Medium / Low risk) on a 21-sheet star-schema warehouse. **PII vaulting and tokenisation compliant with India's DPDP Act 2023 and GDPR.** Quantified **₹1,05,000 of annual revenue at risk** in the pilot dataset; one-command pipeline + 30 validation checks + 70 test cases.
-> `Python` · `XGBoost` · `SHAP` · `Excel` · `Star-schema` · `DPDP Act 2023`
+Customer churn classifier on a 21-sheet star-schema warehouse. **PII vaulting + tokenisation compliant with India's DPDP Act 2023 and GDPR.** Quantified **₹1,05,000** of annual revenue at risk; 30 validation checks + 70 test cases.
+> `Python` · `XGBoost` · `SHAP` · `Star-schema` · `DPDP Act 2023`
 
 #### 📄 LLM-Based RAG Summarisation System - MSc AI Capstone
-Built a retrieval-augmented generation (RAG) system to summarise long documents with custom evaluation metrics balancing **relevance and factual accuracy** - enabling faster decision-making in document-heavy workflows (legal, compliance, research).
+RAG pipeline for long-document summarisation with custom evaluation metrics balancing **relevance and factual accuracy** - an early form of LLM output guardrails for legal / compliance / research workflows.
 > `Python` · `LLMs` · `RAG` · `Prompt Engineering` · `NLP`
 
 #### 💬 Sentiment Analysis Classifier - MSc AI Capstone · >85% accuracy
-Sentiment classifier using logistic regression and **BERT embeddings** trained on social-media feedback datasets - enabling businesses to automate customer feedback analysis at scale.
-> `Python` · `BERT` · `scikit-learn` · `NLP` · `Machine Learning`
+NLP sentiment classifier using **BERT embeddings** + logistic regression on social-media feedback - foundation work for semantic search and RAG retrieval.
+> `Python` · `BERT` · `scikit-learn` · `NLP`
 
 ---
 
 ## 💼 Experience
 
 **BI Team Lead - Datafortune Software Solutions** · *Jul 2021 – Jan 2024*
-- Architected Azure Data Factory pipelines improving processing efficiency by **20%**.
-- Led zero-downtime migration to Snowflake & SQL Server 2017 - 🏆 **High Five Award 2023**.
-- Automated SSRS reports + ETL jobs, reducing manual effort by **60%** with **100% SLA compliance**.
-- **2021–2022:** V-resource on a **UK-based NLP client** — Looker, Snowflake, IICS, Power BI, ADF stack rebuild.
-- **2022–2024:** OPS Lead for Indian customer + **USA/Canada car reinsurance** — introduced **Generative AI** tooling and **Microsoft Fabric** workflows.
-- Single point of contact between 6 developers and 3 client business teams across IST/EST.
-- Authored BRDs, test cases, and UAT scripts; mentored junior BI developers.
+- Coordinated **6 developers and 3 client business teams** across IST/EST overlap - the Forward-Deployed Engineer skillset under a different title.
+- **Sep 2022 – Jan 2024:** OPS Lead - introduced **Generative AI tooling and Microsoft Fabric** into client analytics workflows; one of the early team members deploying LLM-assisted reporting.
+- **Jul 2021 – Aug 2022:** v-resource on a UK-based NLP client - rebuilt the cloud stack (Looker, Snowflake, IICS, Power BI, ADF).
+- Led the **zero-downtime migration** to Snowflake - 🏆 **Datafortune High Five Award (2023)**.
+- Authored BRDs, test cases, UAT scripts; mentored junior developers.
 
-**Business Intelligence Developer - Datafortune Software Solutions** · *Aug 2018 – Mar 2021*
-- Built end-to-end SSIS / SSRS solutions sustaining **99.9% system uptime**.
-- Designed star-schema warehouses; tuned T-SQL stored procedures cutting query time by ~40%.
-- Delivered dashboards and reports to US-based stakeholders.
+**BI Developer - Datafortune Software Solutions** · *Aug 2018 – Mar 2021*
+- End-to-end BI for healthcare and retail clients; **99.9% system uptime** across reporting platforms.
 
 ---
 
@@ -130,7 +145,7 @@ Sentiment classifier using logistic regression and **BERT embeddings** trained o
 
 - **MSc Artificial Intelligence** - National College of Ireland, Dublin *(2024–2025)*
   - 🏅 Graduated with **First Class Honours (1:1)**
-  - Machine Learning · Deep Learning · NLP · Ethics of AI · Distributed Systems · Reinforcement Learning
+  - Machine Learning · Deep Learning · NLP · Reinforcement Learning · Intelligent Agents · Ethics of AI · Distributed Systems
 - **BCA** - Guru Gobind Singh Indraprastha University, Delhi *(2015–2018)*
 
 ---
@@ -146,15 +161,13 @@ Sentiment classifier using logistic regression and **BERT embeddings** trained o
 
 ## 🏆 Achievements
 
-- 🎓 **First Class Honours (1:1)** - MSc Artificial Intelligence, National College of Ireland (2025).
+- 🎓 **First Class Honours (1:1)** - MSc Artificial Intelligence, NCI Dublin (2025).
 - 🏆 **High Five Award 2023** - zero-downtime database migration to Snowflake & SQL Server.
 - 🥇 **Case Study Competition Winner** - innovative solution design & communication.
 - 🚀 Built and shipped a **4,300+ user** public AI tool with no marketing budget.
+- 📱 Shipped **6+ Android apps to Google Play Store** as solo developer.
 - 🌍 Founded **1,000+ member** Indian-students-in-Ireland WhatsApp community.
-- ✍️ Technical blog / LinkedIn author on data pipeline optimisation, responsible AI, and lived experience (**3,820 followers**).
-
----
-
+- ✍️ **3,820 LinkedIn followers**; published technical articles on data, AI, and ops.
 
 ---
 
@@ -166,6 +179,9 @@ Sentiment classifier using logistic regression and **BERT embeddings** trained o
   </a>
   <a href="mailto:shayshankrathore05@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email-shayshankrathore05%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://shayshankr.github.io/">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-shayshankr.github.io-0F766E?style=for-the-badge&logo=github&logoColor=white">
   </a>
   <a href="https://huggingface.co/SR05">
     <img alt="HuggingFace SR05" src="https://img.shields.io/badge/HuggingFace-SR05-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black">
@@ -186,6 +202,6 @@ Sentiment classifier using logistic regression and **BERT embeddings** trained o
 
 ---
 
-> *"Communication is the bridge between great engineering and a happy client. I try to be a strong bridge."*
+> *"I ship products. AI is my pair programmer. My value is in knowing what to build and shipping it fast."*
 
-<p align="center"><i>Based in India · Available immediately · Open to Ireland · EU · UK · Remote · Global roles</i></p>
+<p align="center"><i>Based in India · Available immediately · Open to India · Ireland · EU · UK · Remote · Global roles</i></p>
