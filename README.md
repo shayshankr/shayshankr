@@ -8,7 +8,7 @@
 
 <p align="center">
   <b>AI Product Builder · Forward-Deployed Engineer · Shipper</b><br/>
-  <i>I ship AI products fast - 35+ repos, 6+ Play Store apps, 4,300+ users in 14 months.</i><br/>
+  <i>I ship AI products fast - 45+ repos, 15 Play Store apps, 4,929+ users in 14 months.</i><br/>
   <b>MSc Artificial Intelligence · First Class Honours (1:1) · NCI Dublin, 2025</b>
 </p>
 
@@ -34,13 +34,19 @@
   <a href="https://huggingface.co/spaces/SR05/Delhi_Irish_visa_decisions">
     <img alt="Live Visa Tool" src="https://img.shields.io/badge/Live%20Tool-Visa%20Tracker-2EA44F?style=flat&logo=streamlit&logoColor=white">
   </a>
+  <a href="https://play.google.com/store/apps/details?id=com.psychrochart.app">
+    <img alt="Play Store HVAC Suite" src="https://img.shields.io/badge/Play%20Store-HVAC%20Suite-3DDC84?style=flat&logo=googleplay&logoColor=white">
+  </a>
+  <a href="https://play.google.com/store/apps/details?id=com.shayshankrathore.irishvisadate">
+    <img alt="Play Store Irish Visa Tracker" src="https://img.shields.io/badge/Play%20Store-Irish%20Visa%20Tracker-3DDC84?style=flat&logo=googleplay&logoColor=white">
+  </a>
   <a href="https://psychrometric-chart-1hzt.onrender.com/">
     <img alt="Live HVAC App" src="https://img.shields.io/badge/Live%20App-Psychrometric%20Chart-46E3B7?style=flat&logo=render&logoColor=white">
   </a>
 </p>
 
 <p align="center">
-  🟢 <b>Open to opportunities - globally available. Open to India / Ireland / EU / Remote.</b>
+  🟢 <b>Now in Dublin, Ireland</b> — available immediately for roles in <b>Ireland / India / EU / Remote</b>.
 </p>
 
 ---
@@ -49,23 +55,23 @@
 
 I'm an **AI-native product builder** who ships fast. In the last 14 months I've shipped:
 
-- 🚀 **35+ public GitHub repos** - web, Android, iOS, AI agents, data pipelines
-- 📱 **6+ Android apps to Google Play Store** - Flutter + Kotlin native
-- 🌍 **A live AI visa tracker used by 4,300+ people** - zero advertising spend
-- 🌡️ **A live HVAC psychrometric calculator** - used by engineers and students
+- 🚀 **45+ public GitHub repos** — web, Android, iOS, AI agents, data pipelines
+- 📱 **15 Android apps to Google Play Store (3 in Production)** — Flutter + Kotlin native
+- 🌍 **A live AI visa tracker used by 4,929+ people** — zero advertising spend
+- 🌡️ **A live HVAC psychrometric calculator** — used by engineers and students
 - 🧠 **MSc thesis on Hybrid Reinforcement Learning** for personalised diabetes care
 
 All while completing an **MSc in Artificial Intelligence at National College of Ireland, Dublin with First Class Honours (1:1)**.
 
-My stack is **AI-native**: I treat Claude, Cursor, and GitHub Copilot as pair programmers. My value isn't typing every line by hand - it's knowing what to build, designing it clearly, and shipping working products fast. This is how I produce more in a week than most teams ship in a quarter.
+My stack is **AI-native**: I treat Claude, Cursor, and GitHub Copilot as pair programmers. My value isn't typing every line by hand — it's knowing what to build, designing it clearly, and shipping working products fast. This is how I produce more in a week than most teams ship in a quarter.
 
-Before the MSc, **5+ years at Datafortune Software Solutions** as BI Team Lead - coordinated US/EU clients, led delivery, introduced Microsoft Fabric and Generative AI tooling. Strong communicator: 3,820 LinkedIn followers, founded a 1,000+ member community in Ireland, published technical writing.
+Before the MSc, **5+ years at Datafortune Software Solutions** as BI Team Lead — coordinated US/EU clients, led delivery, introduced Microsoft Fabric and Generative AI tooling. Strong communicator: 3,820 LinkedIn followers, founded a 1,000+ member community in Ireland, published technical writing.
 
-**I'm looking for:** Forward-Deployed Engineer · AI Solutions Engineer · AI Product Manager · Developer Advocate · AI Consulting roles - places where shipping speed, product judgement, and strong communication beat raw algorithmic depth.
+**I'm looking for:** Forward-Deployed Engineer · AI Solutions Engineer · AI Product Manager · Developer Advocate · AI Consulting roles — places where shipping speed, product judgement, and strong communication beat raw algorithmic depth.
 
 ---
 
-## 🛠️ How I Work - AI-Native Development
+## 🛠️ How I Work — AI-Native Development
 
 | Tool | What I use it for |
 |------|-------------------|
@@ -75,7 +81,7 @@ Before the MSc, **5+ years at Datafortune Software Solutions** as BI Team Lead -
 | **v0 / Bolt / Lovable** | UI scaffolding for landing pages and Streamlit demos |
 | **My brain** | Product decisions, system design, prompt engineering, communication |
 
-I ship in 3-day cycles instead of 3-week sprints. This isn't a workaround - it's the new development model that AI companies (Cursor, Anthropic, OpenAI, LangChain) are actively hiring for.
+I ship in 3-day cycles instead of 3-week sprints. This isn't a workaround — it's the new development model that AI companies (Cursor, Anthropic, OpenAI, LangChain) are actively hiring for.
 
 ---
 
@@ -89,7 +95,7 @@ I ship in 3-day cycles instead of 3-week sprints. This isn't a workaround - it's
 | **Mobile Development** | Flutter · Dart · Kotlin · Android (native + Flutter) · iOS (Flutter) · Codemagic CI · Play Store / App Store submission |
 | **Shipping & Deployment** | Hugging Face Spaces · Streamlit Cloud · Render · Google Play Console · Docker · FastAPI · Flask · Streamlit · Git / GitHub |
 | **Web Backends** | FastAPI · Flask · Streamlit · Selenium · BeautifulSoup · REST APIs · Swagger / OpenAPI |
-| **Data & Cloud (concept-level)** | Azure Data Factory · Snowflake · SQL Server · PostgreSQL · Power BI · Microsoft Fabric · Microsoft Azure · AWS S3 - concept-level fluency, AI-assisted execution |
+| **Data & Cloud (concept-level)** | Azure Data Factory · Snowflake · SQL Server · PostgreSQL · Power BI · Microsoft Fabric · Microsoft Azure · AWS S3 — concept-level fluency, AI-assisted execution |
 | **Communication & Delivery** | 5+ years coordinating dev teams + US/EU clients · BRD/UAT · agile · technical writing · public demos · published articles |
 | **Languages** | Hindi · English · Tamil · Marathi |
 
@@ -97,7 +103,7 @@ I ship in 3-day cycles instead of 3-week sprints. This isn't a workaround - it's
 
 ## 🚀 Featured Projects
 
-#### 🇮🇪 [Irish Visa Decision Tracker](https://huggingface.co/spaces/SR05/Delhi_Irish_visa_decisions) - Live · 4,300+ users
+#### 🇮🇪 [Irish Visa Decision Tracker](https://huggingface.co/spaces/SR05/Delhi_Irish_visa_decisions) - Live · 4,929+ users
 AI-powered status checker for Irish visa applications. Scrapes official decision notices with Selenium + BeautifulSoup, extracts processing dates with NLP, served through Streamlit. **Built solo, scaled by word of mouth - zero advertising spend.**
 > `Python` · `Streamlit` · `Selenium` · `BeautifulSoup` · `NLP` · `Hugging Face Spaces`
 
@@ -165,7 +171,7 @@ NLP sentiment classifier using **BERT embeddings** + logistic regression on soci
 - 🏆 **High Five Award 2023** - zero-downtime database migration to Snowflake & SQL Server.
 - 🥇 **Case Study Competition Winner** - innovative solution design & communication.
 - 🚀 Built and shipped a **4,300+ user** public AI tool with no marketing budget.
-- 📱 Shipped **6+ Android apps to Google Play Store** as solo developer.
+- 📱 Shipped **15 Android apps to Google Play Store (3 in Production)** as solo developer.
 - 🌍 Founded **1,000+ member** Indian-students-in-Ireland WhatsApp community.
 - ✍️ **3,820 LinkedIn followers**; published technical articles on data, AI, and ops.
 
