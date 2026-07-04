@@ -46,7 +46,7 @@
 </p>
 
 <p align="center">
-  🟢 <b>Now in Dublin, Ireland</b> — available immediately for roles in <b>Ireland / India / EU / Remote</b>.
+  🟢 <b>Now in Dublin, Ireland</b> - available immediately for roles in <b>Ireland / India / EU / Remote</b>.
 </p>
 
 ---
@@ -55,23 +55,23 @@
 
 I'm an **AI-native product builder** who ships fast. In the last 14 months I've shipped:
 
-- 🚀 **45+ public GitHub repos** — web, Android, iOS, AI agents, data pipelines
-- 📱 **15 Android apps to Google Play Store (3 in Production)** — Flutter + Kotlin native
-- 🌍 **A live AI visa tracker used by 4,929+ people** — zero advertising spend
-- 🌡️ **A live HVAC psychrometric calculator** — used by engineers and students
+- 🚀 **45+ public GitHub repos** - web, Android, iOS, AI agents, data pipelines
+- 📱 **15 Android apps to Google Play Store (3 in Production)** - Flutter + Kotlin native
+- 🌍 **A live AI visa tracker used by 4,929+ people** - zero advertising spend
+- 🌡️ **A live HVAC psychrometric calculator** - used by engineers and students
 - 🧠 **MSc thesis on Hybrid Reinforcement Learning** for personalised diabetes care
 
 All while completing an **MSc in Artificial Intelligence at National College of Ireland, Dublin with First Class Honours (1:1)**.
 
-My stack is **AI-native**: I treat Claude, Cursor, and GitHub Copilot as pair programmers. My value isn't typing every line by hand — it's knowing what to build, designing it clearly, and shipping working products fast. This is how I produce more in a week than most teams ship in a quarter.
+My stack is **AI-native**: I treat Claude, Cursor, and GitHub Copilot as pair programmers. My value isn't typing every line by hand - it's knowing what to build, designing it clearly, and shipping working products fast. This is how I produce more in a week than most teams ship in a quarter.
 
-Before the MSc, **5+ years at Datafortune Software Solutions** as BI Team Lead — coordinated US/EU clients, led delivery, introduced Microsoft Fabric and Generative AI tooling. Strong communicator: 3,820 LinkedIn followers, founded a 1,000+ member community in Ireland, published technical writing.
+Before the MSc, **5+ years at Datafortune Software Solutions** as BI Team Lead - coordinated US/EU clients, led delivery, introduced Microsoft Fabric and Generative AI tooling. Strong communicator: 3,820 LinkedIn followers, founded a 1,000+ member community in Ireland, published technical writing.
 
-**I'm looking for:** Forward-Deployed Engineer · AI Solutions Engineer · AI Product Manager · Developer Advocate · AI Consulting roles — places where shipping speed, product judgement, and strong communication beat raw algorithmic depth.
+**I'm looking for:** Forward-Deployed Engineer · AI Solutions Engineer · AI Product Manager · Developer Advocate · AI Consulting roles - places where shipping speed, product judgement, and strong communication beat raw algorithmic depth.
 
 ---
 
-## 🛠️ How I Work — AI-Native Development
+## 🛠️ How I Work - AI-Native Development
 
 | Tool | What I use it for |
 |------|-------------------|
@@ -81,7 +81,7 @@ Before the MSc, **5+ years at Datafortune Software Solutions** as BI Team Lead �
 | **v0 / Bolt / Lovable** | UI scaffolding for landing pages and Streamlit demos |
 | **My brain** | Product decisions, system design, prompt engineering, communication |
 
-I ship in 3-day cycles instead of 3-week sprints. This isn't a workaround — it's the new development model that AI companies (Cursor, Anthropic, OpenAI, LangChain) are actively hiring for.
+I ship in 3-day cycles instead of 3-week sprints. This isn't a workaround - it's the new development model that AI companies (Cursor, Anthropic, OpenAI, LangChain) are actively hiring for.
 
 ---
 
@@ -95,7 +95,7 @@ I ship in 3-day cycles instead of 3-week sprints. This isn't a workaround — it
 | **Mobile Development** | Flutter · Dart · Kotlin · Android (native + Flutter) · iOS (Flutter) · Codemagic CI · Play Store / App Store submission |
 | **Shipping & Deployment** | Hugging Face Spaces · Streamlit Cloud · Render · Google Play Console · Docker · FastAPI · Flask · Streamlit · Git / GitHub |
 | **Web Backends** | FastAPI · Flask · Streamlit · Selenium · BeautifulSoup · REST APIs · Swagger / OpenAPI |
-| **Data & Cloud (concept-level)** | Azure Data Factory · Snowflake · SQL Server · PostgreSQL · Power BI · Microsoft Fabric · Microsoft Azure · AWS S3 — concept-level fluency, AI-assisted execution |
+| **Data & Cloud (concept-level)** | Azure Data Factory · Snowflake · SQL Server · PostgreSQL · Power BI · Microsoft Fabric · Microsoft Azure · AWS S3 - concept-level fluency, AI-assisted execution |
 | **Communication & Delivery** | 5+ years coordinating dev teams + US/EU clients · BRD/UAT · agile · technical writing · public demos · published articles |
 | **Languages** | Hindi · English · Tamil · Marathi |
 
