@@ -57,6 +57,7 @@ I'm an **AI-native product builder** who ships fast. In the last 14 months I've 
 
 - 🚀 **45+ public GitHub repos** — web, Android, iOS, AI agents, data pipelines
 - 📱 **15 Android apps to Google Play Store (3 in Production)** — Flutter + Kotlin native
+- 🕉️ **Sai Ireland community app** — full-stack Kotlin Android (Firestore, Room, DataStore, Crashlytics) currently in active development
 - 🌍 **A live AI visa tracker used by 4,929+ people** — zero advertising spend
 - 🌡️ **A live HVAC psychrometric calculator** — used by engineers and students
 - 🧠 **MSc thesis on Hybrid Reinforcement Learning** for personalised diabetes care
@@ -104,7 +105,7 @@ I ship in 3-day cycles instead of 3-week sprints. This isn't a workaround — it
 ## 🚀 Featured Projects
 
 #### 🇮🇪 [Irish Visa Decision Tracker](https://huggingface.co/spaces/SR05/Delhi_Irish_visa_decisions) - Live · 4,929+ users
-AI-powered status checker for Irish visa applications. Scrapes official decision notices with Selenium + BeautifulSoup, extracts processing dates with NLP, served through Streamlit. **Built solo, scaled by word of mouth - zero advertising spend.**
+AI-powered status checker for Irish visa applications. Scrapes official decision notices with Selenium + BeautifulSoup, extracts processing dates with NLP, served through Streamlit. **Built solo, scaled by word of mouth - zero advertising spend.** Actively demoed at education consultancies (One Step Global, Leap Scholar, Jamboree) — also live at [ireland-visa-checker.onrender.com](https://ireland-visa-checker.onrender.com).
 > `Python` · `Streamlit` · `Selenium` · `BeautifulSoup` · `NLP` · `Hugging Face Spaces`
 
 #### 🌐 [Global Ireland Visa Checker Suite](https://github.com/shayshankr?tab=repositories) - 5 embassies · Web + Mobile
@@ -114,6 +115,10 @@ Expanded the tracker into a full product suite covering **New Delhi, Beijing, Ab
 #### 🌡️ [Psychrometric Chart Calculator](https://psychrometric-chart-1hzt.onrender.com/) - Live HVAC Tool (Web + Android)
 Web app computing 9 moist-air properties on an ASHRAE-style chart. Now also a **native Kotlin Android app** ([psychrochart-android](https://github.com/shayshankr/psychrochart-android)). *Co-built with [@atulkrohatgi](https://github.com/atulkrohatgi).*
 > `Python` · `Streamlit` · `psychrolib` · `Render` · `Kotlin` · `Android`
+
+#### 🕉️ Sai Ireland — Community Android App *(In Development)*
+Full-stack Android app for the Sai devotee community in Ireland. Complete authentication flow, events management, polls, WhatsApp join flow, bhajans library, push notifications, Crashlytics, and Room + DataStore for offline-first UX. Firestore backend.
+> `Kotlin` · `Firestore` · `Room` · `DataStore` · `Crashlytics` · `Android`
 
 #### 🧠 [Hybrid RL for Personalised Diabetes Care](https://github.com/shayshankr/hybrid-rl-diabetes) - MSc Thesis
 PPO agents over a custom Gymnasium environment with **reward decomposition that bakes safety guardrails (hypoglycaemia floor) directly into the reward signal**, plus meta-learning for fast patient adaptation. Distinguished thesis - contributed to the 1:1.
