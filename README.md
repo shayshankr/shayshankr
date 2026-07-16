@@ -8,7 +8,7 @@
 
 <p align="center">
   <b>AI Product Builder · Forward-Deployed Engineer · Shipper</b><br/>
-  <i>I ship AI products fast — 45+ repos, 15 Play Store apps, 4,929+ users in 14 months.</i><br/>
+  <i>I ship AI products fast — 45+ repos, 15 Play Store apps (3 in Production), 4,929+ users in 14 months.</i><br/>
   <b>MSc Artificial Intelligence · First Class Honours (1:1) · NCI Dublin, 2025</b>
 </p>
 
@@ -56,7 +56,7 @@
 I'm an **AI-native product builder** who ships fast. In the last 14 months I've shipped:
 
 - 🚀 **45+ public GitHub repos** — web, Android, iOS, AI agents, data pipelines
-- 📱 **15 Android apps to Google Play Store (3 in Production)** — Flutter + Kotlin native
+- 📱 **15 Android apps to Google Play Store (**3 in Production** — HVAC Suite, Irish Visa Tracker, DialFix India & Ireland)** — Flutter + Kotlin native
 - 🕉️ **Sai Ireland community app** — full-stack Kotlin Android (Firestore, Room, DataStore, Crashlytics) currently in active development
 - 🌍 **A live AI visa tracker used by 4,929+ people** — zero advertising spend
 - 🌡️ **A live HVAC psychrometric calculator** — used by engineers and students
@@ -120,6 +120,11 @@ Web app computing 9 moist-air properties on an ASHRAE-style chart. Now also a **
 Full-stack Android app for the Sai devotee community in Ireland. Complete authentication flow, events management, polls, WhatsApp join flow, bhajans library, push notifications, Crashlytics, and Room + DataStore for offline-first UX. Firestore backend.
 > `Kotlin` · `Firestore` · `Room` · `DataStore` · `Crashlytics` · `Android`
 
+
+#### 📱 DialFix India & Ireland — Live on Google Play Store
+Cross-region contact management utility, live in Production on Google Play Store. Sibling variants (DialFix India, DialFix India & Australia) in closed testing.
+> `Kotlin` · `Android` · `Google Play Store`
+
 #### 🧠 [Hybrid RL for Personalised Diabetes Care](https://github.com/shayshankr/hybrid-rl-diabetes) - MSc Thesis
 PPO agents over a custom Gymnasium environment with **reward decomposition that bakes safety guardrails (hypoglycaemia floor) directly into the reward signal**, plus meta-learning for fast patient adaptation. Distinguished thesis - contributed to the 1:1.
 > `Python` · `PPO` · `Gymnasium` · `Stable-Baselines3` · `Meta-Learning`
@@ -176,7 +181,7 @@ NLP sentiment classifier using **BERT embeddings** + logistic regression on soci
 - 🏆 **High Five Award 2023** - zero-downtime database migration to Snowflake & SQL Server.
 - 🥇 **Case Study Competition Winner** - innovative solution design & communication.
 - 🚀 Built and shipped a **4,300+ user** public AI tool with no marketing budget.
-- 📱 Shipped **15 Android apps to Google Play Store (3 in Production)** as solo developer.
+- 📱 Shipped **15 Android apps to Google Play Store (**3 in Production** — HVAC Suite, Irish Visa Tracker, DialFix India & Ireland)** as solo developer.
 - 🌍 Founded **1,000+ member** Indian-students-in-Ireland WhatsApp community.
 - ✍️ **3,820 LinkedIn followers**; published technical articles on data, AI, and ops.
 
