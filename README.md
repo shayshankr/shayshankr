@@ -159,7 +159,8 @@ NLP sentiment classifier using **BERT embeddings** + logistic regression on soci
 - Coordinated **6 developers and 3 client business teams** across IST/EST overlap - the Forward-Deployed Engineer skillset under a different title.
 - **Sep 2022 – Jan 2024:** OPS Lead - introduced **Generative AI tooling and Microsoft Fabric** into client analytics workflows; one of the early team members deploying LLM-assisted reporting.
 - **Jul 2021 – Aug 2022:** v-resource on a UK-based NLP client - rebuilt the cloud stack (Looker, Snowflake, IICS, Power BI, ADF).
-- Led the **zero-downtime migration** to Snowflake - 🏆 **Datafortune High Five Award (2023)**.
+- Led the migration of legacy ETL workflows to Snowflake and IICS on Amazon S3 with minimal downtime.
+- 🏆 **Datafortune High Five Award (2023)** - zero-downtime PostgreSQL migration.
 - Authored BRDs, test cases, UAT scripts; mentored junior developers.
 
 **BI Developer - Datafortune Software Solutions** · *Aug 2018 – Mar 2021*
@@ -188,7 +189,7 @@ NLP sentiment classifier using **BERT embeddings** + logistic regression on soci
 ## 🏆 Achievements
 
 - 🎓 **First Class Honours (1:1)** - MSc Artificial Intelligence, NCI Dublin (2025).
-- 🏆 **High Five Award 2023** - zero-downtime database migration to Snowflake & SQL Server.
+- 🏆 **High Five Award 2023** - zero-downtime PostgreSQL migration.
 - 🥇 **Case Study Competition Winner** - innovative solution design & communication.
 - 🚀 Built and shipped a public AI tool with **9,719+ visits** and no marketing budget.
 - 📱 Built **17 Android apps on Google Play Console (**5 live in Production** — HVAC Suite, Irish Visa Tracker, Ireland Visa New Delhi, DialFix India & Ireland, To-Do List)** as a solo developer.
