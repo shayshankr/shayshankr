@@ -8,7 +8,7 @@
 
 <p align="center">
   <b>AI Product Builder · Forward-Deployed Engineer · Shipper</b><br/>
-  <i>I ship AI products fast — 45+ repos, 15 Play Store apps (3 in Production), 4,929+ users in 14 months.</i><br/>
+  <i>I ship AI products fast — 55+ repos, 17 apps on Play Console (5 live in Production), 9,719+ visits to the live visa tool.</i><br/>
   <b>MSc Artificial Intelligence · First Class Honours (1:1) · NCI Dublin, 2025</b>
 </p>
 
@@ -53,12 +53,14 @@
 
 ## 👋 About me
 
-I'm an **AI-native product builder** who ships fast. In the last 14 months I've shipped:
+I'm an **AI-native product builder** who ships fast. Over the last couple of years I've shipped:
 
-- 🚀 **45+ public GitHub repos** — web, Android, iOS, AI agents, data pipelines
-- 📱 **15 Android apps to Google Play Store (**3 in Production** — HVAC Suite, Irish Visa Tracker, DialFix India & Ireland)** — Flutter + Kotlin native
-- 🕉️ **Sai Ireland community app** — full-stack Kotlin Android (Firestore, Room, DataStore, Crashlytics) currently in active development
-- 🌍 **A live AI visa tracker used by 4,929+ people** — zero advertising spend
+- 🚀 **55+ public GitHub repos** — web, Android, iOS, AI agents, data pipelines
+- 📱 **17 Android apps on Google Play Console (**5 live in Production** — HVAC Suite, Irish Visa Tracker, Ireland Visa New Delhi, DialFix India & Ireland, To-Do List)** — Flutter + Kotlin native
+- 🕉️ **Sai Ireland community app** — full-stack Kotlin Android (Firestore, Room, DataStore, Crashlytics) in closed testing on Google Play
+- 🌍 **A live AI visa tracker with 9,719+ visits** — zero advertising spend
+- 🧩 **Irish Visa Decision Checker** — Chrome extension, published on the Chrome Web Store
+- 🤖 **PostPilot** — autonomous LinkedIn content engine (Claude drafts, scheduler posts, nightly report)
 - 🌡️ **A live HVAC psychrometric calculator** — used by engineers and students
 - 🧠 **MSc thesis on Hybrid Reinforcement Learning** for personalised diabetes care
 
@@ -104,7 +106,7 @@ I ship in 3-day cycles instead of 3-week sprints. This isn't a workaround — it
 
 ## 🚀 Featured Projects
 
-#### 🇮🇪 [Irish Visa Decision Tracker](https://huggingface.co/spaces/SR05/Delhi_Irish_visa_decisions) - Live · 4,929+ users
+#### 🇮🇪 [Irish Visa Decision Tracker](https://huggingface.co/spaces/SR05/Delhi_Irish_visa_decisions) - Live · 9,719+ visits
 AI-powered status checker for Irish visa applications. Scrapes official decision notices with Selenium + BeautifulSoup, extracts processing dates with NLP, served through Streamlit. **Built solo, scaled by word of mouth - zero advertising spend.** Actively demoed at education consultancies (One Step Global, Leap Scholar, Jamboree) — also live at [ireland-visa-checker.onrender.com](https://ireland-visa-checker.onrender.com).
 > `Python` · `Streamlit` · `Selenium` · `BeautifulSoup` · `NLP` · `Hugging Face Spaces`
 
@@ -116,10 +118,18 @@ Expanded the tracker into a full product suite covering **New Delhi, Beijing, Ab
 Web app computing 9 moist-air properties on an ASHRAE-style chart. Now also a **native Kotlin Android app** ([psychrochart-android](https://github.com/shayshankr/psychrochart-android)). *Co-built with [@atulkrohatgi](https://github.com/atulkrohatgi).*
 > `Python` · `Streamlit` · `psychrolib` · `Render` · `Kotlin` · `Android`
 
-#### 🕉️ Sai Ireland — Community Android App *(In Development)*
+#### 🕉️ Sai Ireland — Community Android App *(Closed testing)*
 Full-stack Android app for the Sai devotee community in Ireland. Complete authentication flow, events management, polls, WhatsApp join flow, bhajans library, push notifications, Crashlytics, and Room + DataStore for offline-first UX. Firestore backend.
 > `Kotlin` · `Firestore` · `Room` · `DataStore` · `Crashlytics` · `Android`
 
+
+#### 🤖 [PostPilot](https://github.com/shayshankr/postpilot) - Autonomous LinkedIn Content Engine
+Claude drafts posts, a scheduler publishes them, and a nightly job reports on what's working.
+> `TypeScript` · `Claude` · `Agents`
+
+#### 🎓 [Learn AI](https://github.com/shayshankr/learn-ai) - Free Interactive Course
+A free, interactive course on using AI tools: chatbots, prompt engineering, coding assistants, image generation, agents and more.
+> `HTML` · `Prompt Engineering`
 
 #### 📱 DialFix India & Ireland — Live on Google Play Store
 Cross-region contact management utility, live in Production on Google Play Store. Sibling variants (DialFix India, DialFix India & Australia) in closed testing.
@@ -180,8 +190,8 @@ NLP sentiment classifier using **BERT embeddings** + logistic regression on soci
 - 🎓 **First Class Honours (1:1)** - MSc Artificial Intelligence, NCI Dublin (2025).
 - 🏆 **High Five Award 2023** - zero-downtime database migration to Snowflake & SQL Server.
 - 🥇 **Case Study Competition Winner** - innovative solution design & communication.
-- 🚀 Built and shipped a **4,300+ user** public AI tool with no marketing budget.
-- 📱 Shipped **15 Android apps to Google Play Store (**3 in Production** — HVAC Suite, Irish Visa Tracker, DialFix India & Ireland)** as solo developer.
+- 🚀 Built and shipped a public AI tool with **9,719+ visits** and no marketing budget.
+- 📱 Built **17 Android apps on Google Play Console (**5 live in Production** — HVAC Suite, Irish Visa Tracker, Ireland Visa New Delhi, DialFix India & Ireland, To-Do List)** as a solo developer.
 - 🌍 Founded **1,000+ member** Indian-students-in-Ireland WhatsApp community.
 - ✍️ **3,820 LinkedIn followers**; published technical articles on data, AI, and ops.
 
@@ -220,4 +230,4 @@ NLP sentiment classifier using **BERT embeddings** + logistic regression on soci
 
 > *"I ship products. AI is my pair programmer. My value is in knowing what to build and shipping it fast."*
 
-<p align="center"><i>Based in India · Available immediately · Open to India · Ireland · EU · UK · Remote · Global roles</i></p>
+<p align="center"><i>Based in Dublin, Ireland · Available immediately · Open to India · Ireland · EU · UK · Remote · Global roles</i></p>
